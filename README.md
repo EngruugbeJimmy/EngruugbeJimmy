@@ -1,11 +1,11 @@
 
-<h2 align="center">
+<h2 align="left">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </h2>
 
-<h1 align="center">I'm Abah James U</h1>
+<h1 align="left">I'm Abah James U</h1>
 
-<h2 align="center">Enthusiastic Full-stack Developer</h2>
+<h2 align="left">Enthusiastic Full-stack Developer</h2>
 
 
 ##Contact
@@ -92,20 +92,20 @@
   </a>
 
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmanimashaun&show_icons=true&theme=radical"  alt="Contribution stats"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngruugbeJimmy&show_icons=true&theme=radical"  alt="Contribution stats"/>
   </a>
   <a href="#">
-    <img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fmanimashaun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+    <img alt="Abah James Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fmanimashaun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
   </a>
 
 </P>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmanimashaun&langs_count=8&show_icons=true&theme=radical"  alt="Fisayo's GitHub stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngruugbeJimmy&langs_count=8&show_icons=true&theme=radical"  alt="Abah's GitHub stats"/>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fmanimashaun&&row=2&column=3&show_icons=true&theme=radical" alt="fmanimashaun" />
+    <img src="https://github-profile-trophy.vercel.app/?username=EngruugbeJimmy&&row=2&column=3&show_icons=true&theme=radical" alt="EngruugbeJimmy" />
   </a>
 </p>
 
