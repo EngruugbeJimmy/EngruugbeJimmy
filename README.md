@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </h2>
 
-<h1 align="left">I'm Abah James U</h1>
+<h1 align="left">I'm Abah James Ugbedeojo</h1>
 
 <h2 align="left">Enthusiastic Full-stack Developer</h2>
 
