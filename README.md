@@ -1,4 +1,3 @@
-<h2 align="center">Hi</h2>
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
@@ -8,21 +7,11 @@
 
 <h2 align="center">Enthusiastic Full-stack Developer</h2>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fmanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view" /> 
-</p>
 
-## Badges
-
-
-<p align="left">
-    <img width="60" src="img/html-css.png" alt="HTML/CSS certificate" /> 
-</p>
-
+##Contact
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-
   <a href="https://twitter.com/abbaJdev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesA" height="30" width="40" />
   </a>
@@ -35,18 +24,6 @@
   <a href="https://www.hackerrank.com/abahuugbede" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/hackerrank.webp" alt="fmanimashaun" height="30" width="40" />
   </a>
-
-  <a href="https://fmanimashaun.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/website-icon.svg" alt="personal site" height="40" width="50" />
-  </a>
-  <a href="https://fmanimashaun.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/blog.svg" alt="personal blog" height="40" width="50" />
-  </a>
-
-  <a href="mailto:fisayo.animashaun@outlook.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/email.svg" alt="email" height="40" width="50" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
