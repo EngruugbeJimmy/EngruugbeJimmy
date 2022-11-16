@@ -8,7 +8,6 @@
 <h2 align="left">Enthusiastic Full-stack Developer</h2>
 
 
-##Contact
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -18,11 +17,6 @@
 
   <a href="https://www.linkedin.com/in/abah-james-ugbede-356982159/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesA" height="30" width="40" />
-  </a>
-
- 
-  <a href="https://www.hackerrank.com/abahuugbede" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/hackerrank.webp" alt="fmanimashaun" height="30" width="40" />
   </a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,7 +43,7 @@
   </a> 
 
   <a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/github.svg" alt="Github" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/EngruugbeJimmy/EngruugbeJimmy/main/img/github.svg" alt="Github" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -81,21 +75,21 @@
   </a>
   
    <a href="https://parceljs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/parcel-bundler.png" alt="parcel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/EngruugbeJimmy/EngruugbeJimmy/main/img/parcel-bundler.png" alt="parcel" width="40" height="40"/> 
   </a>
   
 </p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fmanimashaun&show_icons=true&theme=radical"  alt="Fisayo's GitHub stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EngruugbeJimmy&show_icons=true&theme=radical"  alt="Abah's GitHub stats"/>
   </a>
 
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngruugbeJimmy&show_icons=true&theme=radical"  alt="Contribution stats"/>
   </a>
   <a href="#">
-    <img alt="Abah James Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fmanimashaun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+    <img alt="Abah James Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EngruugbeJimmy&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
   </a>
 
 </P>
