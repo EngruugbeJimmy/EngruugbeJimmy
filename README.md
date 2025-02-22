@@ -5,7 +5,7 @@
 
 <h1 align="left">I'm Abah James Ugbedeojo</h1>
 
-<h2 align="left">Enthusiastic Full-stack Developer</h2>
+<h2 align="left">Hydraulics Engineer</h2>
 
 
 <h3 align="left">Connect with me:</h3>
