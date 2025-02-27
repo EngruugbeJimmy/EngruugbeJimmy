@@ -1,185 +1,152 @@
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+
+<h2 align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; border-radius: 10px; overflow: hidden;">
+        <img src='/welcomeMsg.png' alt="Welcome Message" style="display: block;" />
+      </td>
+      <td style="border: none; border-radius: 10px; overflow: hidden; margin-left: 10px;">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi GIF" style="display: block;" />
+      </td>
+    </tr>
+  </table>
 </h2>
 
-<h1 align="left">I'm Abah James Ugbedeojo</h1>
-
-<h2 align="left">Hydraulics Engineer</h2>
 
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://twitter.com/abbaJdev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesA" height="30" width="40" />
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Welcome+ to+my+profile%F0%9F%91%8B;I+am+James+Unekwuojo" alt="Typing SVG" /></a></h1>
+<h3 align="center">A softaware engineering enthusiast that loves CODING🤔, always eager to learn new things and explore the vast world of technology.</h3>
+
+```javascript
+const James = {
+  pronouns: "He" | "Him",
+  niche: "Full-stack web dev",
+  lookingFor: "collaborations on Full stack Web Projects",
+  workingOn: "Job posting web app",
+  funFact: "still looking for one..."
+ 
+}
+
+
+```
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJamesunekwuojo%2Fjamesunekwuojo%2F&countColor=%23263759)
+ 
+<a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
+
+
+## 💻 Tech Stack:
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> 
+      <p>HTML5</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
+      <p>CSS3</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> 
+      <p>JavaScript</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/>
+      <p>React</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="40"/>
+      <p>Bootstrap</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/> 
+      <p>Node.js</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/express.png" width="40" height="40"/> 
+      <p>Express.js</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40"/>
+      <p>MongoDB</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> 
+      <p>Git</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" width="40" height="40"/>
+      <p>Python</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" width="40" height="40"/>
+      <p>C++</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="40" height="40"/>
+      <p>C</p>
+    </td>
+  </tr>
+</table>
+
+## 🌐 Connect with me: 
+<div align="center">
+  <a href="https://www.linkedin.com/in/unekwuojo-james-b2511225b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/james_unekwuojo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/jamesunekwuojo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/unekwuojo_james/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesunekwuojo&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesunekwuojo&theme=synthwave&hide_border=false">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesunekwuojo&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
+# 📈 Productivity Stats:
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamesunekwuojo&theme=synthwave"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
+
+## 🏆 GitHub Trophies
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jamesunekwuojo&&row=2&column=3&show_icons=true&theme=radical" alt="EngruugbeJimmy" />
+    <!--<img src="https://github-profile-trophy.vercel.app/?username=jamesunekwuojo&title=Stars,Followers,Commits"/>-->
   </a>
 
-  <a href="https://www.linkedin.com/in/james-ugbedeojo-abah-356982159/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesA" height="30" width="40" />
-  </a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-    
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-      
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-       
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-  </a>
-  
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EngruugbeJimmy&show_icons=true&theme=radical"  alt="Abah's GitHub stats"/>
-  </a>
-
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngruugbeJimmy&show_icons=true&theme=radical"  alt="Contribution stats"/>
-  </a>
-  <a href="#">
-    <img alt="Abah James Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EngruugbeJimmy&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
-  </a>
-
-</P>
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngruugbeJimmy&langs_count=8&show_icons=true&theme=radical"  alt="Abah's GitHub stats"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EngruugbeJimmy&&row=2&column=3&show_icons=true&theme=radical" alt="EngruugbeJimmy" />
-  </a>
-</p>
 
 
 
 
 
-  <!--
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
-  </a> 
 
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-     
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-     
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>  
 
-   <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
-  </a> 
 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
 
-   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>  
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
+<!--
+**Jamesunekwuojo/jamesunekwuojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
+Here are some ideas to get you started:
 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-  </a> 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
-
-
-
-
