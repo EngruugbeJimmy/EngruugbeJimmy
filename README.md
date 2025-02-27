@@ -3,7 +3,6 @@
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; border-radius: 10px; overflow: hidden;">
-        <img src='/welcomeMsg.png' alt="Welcome Message" style="display: block;" />
       </td>
       <td style="border: none; border-radius: 10px; overflow: hidden; margin-left: 10px;">
         <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi GIF" style="display: block;" />
