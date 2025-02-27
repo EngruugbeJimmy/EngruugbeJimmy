@@ -15,7 +15,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesA" height="30" width="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/abah-james-ugbede-356982159/" target="blank">
+  <a href="https://www.linkedin.com/in/james-ugbedeojo-abah-356982159/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesA" height="30" width="40" />
   </a>
 
