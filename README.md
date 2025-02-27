@@ -7,7 +7,6 @@
 
 <h2 align="left">Hydraulics Engineer</h2>
 
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -69,6 +68,11 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
   </a>
+
+  <!-- Add Python here -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
 </p>
 
 <p>
@@ -93,6 +97,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=EngruugbeJimmy&&row=2&column=3&show_icons=true&theme=radical" alt="EngruugbeJimmy" />
   </a>
 </p>
+
 
 
 
