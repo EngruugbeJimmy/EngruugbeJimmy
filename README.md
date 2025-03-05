@@ -22,8 +22,8 @@
 const James = {
   pronouns: "He" | "Him",
   niche: "Full-stack web dev",
-  lookingFor: "collaborations on Full stack Web Projects",
-  workingOn: "Job posting web app",
+  lookingFor: "collaborations on Full stack Hydro Projects",
+  workingOn: "HYDRODYANAMICS_apps",
   funFact: "still looking for one..."
  
 }
