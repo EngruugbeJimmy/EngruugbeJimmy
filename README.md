@@ -3,6 +3,9 @@
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; border-radius: 10px; overflow: hidden;">
+         <td style="border: none; border-radius: 10px; overflow: hidden; margin-left: 10px;">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi GIF" style="display: block;" />
+      </td>
       </td>
     </tr>
   </table>
@@ -12,7 +15,7 @@
 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Welcome+ to+my+profile%F0%9F%91%8B;I+am+James+Abah" alt="Typing SVG" /></a></h1>
+
 <h3 align="center">Engineer with thing for coding.</h3>
 
 ```javascript
